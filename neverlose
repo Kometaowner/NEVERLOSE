@@ -23,7 +23,7 @@ local Library = {
         World     = "rbxassetid://4830959433",
         View      = "rbxassetid://6266103551",
         Main      = "rbxassetid://12403104094",
-        Inventory = "rbxassetid://13747709452",
+        exploit = "rbxassetid://13747709452",
         Configs   = "rbxassetid://9405931578",
     },
 }
